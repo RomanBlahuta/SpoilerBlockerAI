@@ -6,7 +6,7 @@ This is a project which has a goal of creating an accurate and effective sentenc
 ## Main methods:
 * Sentence classification
 * Data preprocessing and hand-crafted features
-* ~~Elements of sentiment analysis~~
+* ~~Elements of sentiment analysis~~ - rejected after Exploratory Data Analysis and application of this method to the explored data
 
 ## Team
 * Roman Blahuta
