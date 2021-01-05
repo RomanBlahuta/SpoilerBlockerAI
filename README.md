@@ -14,3 +14,8 @@ This is a project which has a goal of creating an accurate and effective sentenc
 ## Team
 * Roman Blahuta
 * Vladyslav Zadorozhnyy
+
+### Used materials
+* https://nlp.stanford.edu/projects/glove/
+* https://github.com/MengtingWan/goodreads
+* https://stackabuse.com/python-for-nlp-movie-sentiment-analysis-using-deep-learning-in-keras/
