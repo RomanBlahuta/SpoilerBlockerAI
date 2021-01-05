@@ -19,3 +19,5 @@ This is a project which has a goal of creating an accurate and effective sentenc
 * https://nlp.stanford.edu/projects/glove/
 * https://github.com/MengtingWan/goodreads
 * https://stackabuse.com/python-for-nlp-movie-sentiment-analysis-using-deep-learning-in-keras/
+* https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+* https://medium.com/greyatom/an-introduction-to-bag-of-words-in-nlp-ac967d43b428
