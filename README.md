@@ -7,6 +7,9 @@ This is a project which has a goal of creating an accurate and effective sentenc
 * Sentence classification
 * Data preprocessing and hand-crafted features
 * ~~Elements of sentiment analysis~~ - rejected after Exploratory Data Analysis and application of this method to the explored data
+* Deep Learning Neural Networks (keras with tensorflow BE)
+
+### Embeddings were provided by Stanford University: https://nlp.stanford.edu/projects/glove/
 
 ## Team
 * Roman Blahuta
